@@ -5,6 +5,7 @@ The system is built using PHP, MySQL, and other web technologies to provide a se
 
 Below is a comprehensive explanation of the project, covering the purpose, features, technologies used, and how the system works.
 
+
 The main purpose of developing an Online Voting System is to:
 
 Provide a secure and transparent voting process.
@@ -17,6 +18,7 @@ Ensure that only registered voters can participate in the voting process.
 
 Make the voting process accessible from anywhere via the internet.
 
+
 Technologies used:
 
 PHP:	Backend scripting language
@@ -28,6 +30,7 @@ HTML/CSS/JavaScript:	Frontend for user interface
 Bootstrap:	Responsive web design
 
 XAMPP/LAMP: Local server environment.
+
 
 System workflow:
 
